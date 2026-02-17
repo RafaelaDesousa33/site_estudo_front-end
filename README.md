@@ -34,16 +34,8 @@ Analise o código e pratique modificações para aprender como cada elemento HTM
 
 Tecnologias utilizadas
 
-Este projeto foi implementado utilizando apenas:
-
 HTML
+CSS
 
-Próximos passos
-
-Você pode evoluir este estudo incluindo:
-
-Estilos com CSS
-
-Interatividade com JavaScript
 
 Páginas adicionais com conteúdo mais complexo
