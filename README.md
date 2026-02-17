@@ -2,6 +2,8 @@ site_estudo_front-end
 
 Este repositório contém arquivos HTML utilizados para estudo de desenvolvimento Front-End. O objetivo é praticar a criação de páginas utilizando os fundamentos de HTML e desenvolver uma melhor compreensão da estrutura de um site básico.
 
+![Descrição da imagem](cursos_ser_front_end_site_foto.png)
+
 Conteúdo do repositório
 
 O projeto está organizado com os seguintes arquivos:
